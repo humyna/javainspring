@@ -1,0 +1,2 @@
+将ChartBean连同属性编辑器以及ChartBeanBeanInfo打成JAR包，使用IDE组件扩展管理功能注册到IDE中。
+这样，我们就可以像使用TextField、Checkbox等这些组对ChartBean进行可视化的开发设计工作了。
