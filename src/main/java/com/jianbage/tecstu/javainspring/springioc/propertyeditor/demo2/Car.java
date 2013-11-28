@@ -1,4 +1,4 @@
-package com.jianbage.tecstu.javaforspring.springioc.propertyeditor.demo2;
+package com.jianbage.tecstu.javainspring.springioc.propertyeditor.demo2;
 
 public class Car {
 	private String brand;

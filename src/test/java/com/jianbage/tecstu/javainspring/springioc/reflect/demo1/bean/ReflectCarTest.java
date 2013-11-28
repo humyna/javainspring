@@ -6,8 +6,7 @@ import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.jianbage.tecstu.javaforspring.springioc.reflect.demo1.start.ReflectCar;
-import com.jianbage.tecstu.javainspring.springioc.reflect.demo1.bean.Car;
+import com.jianbage.tecstu.javainspring.springioc.reflect.demo1.reflectbean.ReflectCar;
 
 public class ReflectCarTest {
 	Logger logger = LoggerFactory.getLogger(ReflectCarTest.class);

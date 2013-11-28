@@ -1,4 +1,4 @@
-package com.jianbage.tecstu.javaforspring.springioc.propertyeditor.demo1;
+package com.jianbage.tecstu.javainspring.springioc.propertyeditor.demo1;
 
 import java.beans.PropertyEditorSupport;
 

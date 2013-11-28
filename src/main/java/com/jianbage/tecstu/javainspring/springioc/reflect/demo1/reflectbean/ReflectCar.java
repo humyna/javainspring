@@ -1,4 +1,4 @@
-package com.jianbage.tecstu.javaforspring.springioc.reflect.demo1.start;
+package com.jianbage.tecstu.javainspring.springioc.reflect.demo1.reflectbean;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;
